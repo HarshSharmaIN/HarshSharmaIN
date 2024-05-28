@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://harsh-sharma-me-website.web.app/](https://harsh-sharma-me-website.web.app/)
+- 👨‍💻 All of my projects are available at [https://harshsharma-me.netlify.app/]([https://harshsharma-me.netlify.app/])
 
 - 💬 Ask me about **my favourite food**
 
